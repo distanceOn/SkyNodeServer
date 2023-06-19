@@ -1,0 +1,12 @@
+{
+  "name": "@skypro-web-developer/backend-02-template",
+  "version": "1.0.0",
+  "description": "Шаблон для выполнения второго домашнего задания",
+  "private": true,
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "",
+    "start": ""
+  },
+  "author": ""
+}

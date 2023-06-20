@@ -4,9 +4,13 @@
   "description": "Шаблон для выполнения второго домашнего задания",
   "private": true,
   "main": "src/index.js",
+  "type": "module",
   "scripts": {
-    "dev": "",
-    "start": ""
+    "dev": "nodemon src/index.js ",
+    "start": "node src/index.js"
   },
-  "author": ""
+  "author": "",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
 }
